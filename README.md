@@ -1,4 +1,4 @@
-# Grad-IO
+# Grad-IO 
 Graduate Empirical Industrial Organization
 
 This is meant to be a first PhD course in Empirical Industrial Organization.
@@ -43,6 +43,8 @@ Topics (in order):
 14. Two Period Entry Models
 
 15. Partial Identification and Moment Inequalities
+
+# testing
 
 
 
